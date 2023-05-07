@@ -1,6 +1,6 @@
 # unitedPayment-case
 
-                                                                     -- ÖZET --
+                                                             -- ÖZET --
                                                                      
 1-) Şuan elimde macbook bulunduğu için macbook için visual studio kullandım. Bu sebeple wcf web servis referansını ekleyemedim. ( Visual Studio Cross platform için wcf desteği vermiyor. Araştırdım çözüm bulamadım). Tc kimlik sorgulama servisini yazdım ancak test edemediğim için yorum satırına aldım.
 
