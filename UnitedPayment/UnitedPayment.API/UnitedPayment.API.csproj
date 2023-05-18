@@ -12,10 +12,14 @@
     <None Remove="Newtonsoft.Json" />
     <None Remove="System.Data.SqlClient" />
     <None Remove="NSwag.AspNetCore" />
+    <None Remove="Services\" />
+    <None Remove="Abstract\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Abstract\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.ServiceModel.Primitives" Version="4.10.2" />
